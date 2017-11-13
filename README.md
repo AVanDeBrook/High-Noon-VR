@@ -8,6 +8,6 @@ Bryce Cole handled mainly the programming and worked on some of the terrain desi
 
 Aaron Van De Brook worked mainly on 3D modeling some of the objects in the game as well as designing the terrain in the background of the game.
 
-The game was made in VR using Unity, and was developed and meant to be used with a Samsung Gear VR headset.
+The game was made in VR using Unity, and was developed and meant to be used with/plaed on a Samsung Gear VR headset.
 
 We used Maya, Blender, Unity, Visual Studio, and Visual Studio Code to model and program the game.
